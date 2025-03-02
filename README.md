@@ -17,3 +17,13 @@ This project is a simple crypto price tracker built with Next.js and React Query
    ```bash
    cd web-app
    ```
+2. Run `npm install` to install all dependencies
+3. Run `npm run dev` to start the dev server, and access the page at localhost:3000
+
+### Docusaurus
+1. Navigate to the `docs` directory:
+   ```bash
+   cd docs
+   ```
+2. Run `npm install` to install all dependencies
+3. Run `npm run start` and the doc page will open automatically
